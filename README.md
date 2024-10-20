@@ -1,4 +1,3 @@
-![Screenshot 2024-10-19 205824](https://github.com/user-attachments/assets/e1adb12f-2038-48e7-b2de-59f8f469d187)# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
